@@ -54,7 +54,7 @@ summarizes key metrics and helps users analyze the overall impact of the pandemi
 ---
 
 ## Dashboard Preview
-_Add dashboard screenshot here (dashboard.png)_  
+_Add dashboard screenshot here (covid19_dashboard.png.png)_  
 
 ```markdown
 ![Dashboard Preview](covid19_dashboard.png.png)
